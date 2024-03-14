@@ -1,0 +1,2 @@
+- 👋 Hi, I’mAnilaPeter
+- I am an aspiring data scientist with a strong educational background in Mathematics, seeking a position to apply analytical and programming skills in a professional environment.
