@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anila Peter
-
-👩🏽‍💻 Aspiring data scientist, Machine learning enthusiast<br/>
+# 💫 About Me:
+I'm an aspiring data scientist and machine learning enthusiast with strong educational background in Mathematics. Possessing a deep understanding of mathematical principles and a passion for data-driven problem-solving. Proficient in statistical analysis, data analysis, python programming, and machine learning techniques. Eager to leverage academic expertise and practical experience to excel in roles in the field of data science.
 🧮 Passionate Mathematician, Freelance [math Expert](https://drive.google.com/file/d/1NNdgjk05JR8heDVEkq1hIswHGyZWcun7/view?usp=sharing)<br/>
 👩🏽‍🎓 [Master's ](https://drive.google.com/file/d/1F8LRzUOWC8fjyAyyJhb-2R5QWHJ6_SyF/view?usp=sharing) degree in Mathematics<br/>
 👩🏽‍🎓 [Bachelor's](https://drive.google.com/file/d/1EGOmfVsMjiSmf_w0PnqbVTeKaUwC1E7P/view?usp=sharing)  degree in Mathematics<br/>
