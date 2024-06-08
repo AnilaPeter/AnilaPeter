@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Anila Peter
+# 👋 Hi, I’m Anila Peter
 
 👩🏽‍💻 Aspiring data scientist, Machine learning enthusiast<br/>
 🧮 Passionate Mathematician, Freelance [math Expert](https://drive.google.com/file/d/1NNdgjk05JR8heDVEkq1hIswHGyZWcun7/view?usp=sharing)<br/>
