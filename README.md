@@ -17,7 +17,7 @@ A collection of all the certifications I have earned over the years.
 
 •	CSIR-UGC [NET in Mathematical Sciences](https://drive.google.com/file/d/1hReQaZ9Bgy0E4y-ouWOBkshvbwoiKV_M/view?usp=drive_link) (National Eligibility test)<br/>
 •	[IBM Advanced AI & ML Certificate](https://learnvista.skillsnetwork.site/certificates-backend/certificates/595cb524-81ce-4d69-85b3-fd4997824f5d)  <br/>
-•	[Python for Data Science](https://courses.learnvista.skillsnetwork.site/certificates/72b8ea95e28947eea82fdaa4844b7334) <br/>
+•	[IBM : Python for Data Science](https://courses.learnvista.skillsnetwork.site/certificates/72b8ea95e28947eea82fdaa4844b7334) <br/>
 •	[IBM : Data Science Methodology](https://courses.learnvista.skillsnetwork.site/certificates/989588b3847f4b059f4d4d89c419f598) <br/>
 •	[IBM : Data ScienceTools](https://courses.learnvista.skillsnetwork.site/certificates/869ee9e5a4f04efbb70f9f5f8d425642)    <br/> 
 •	[Business Professional Programmer (O-Level)](https://drive.google.com/file/d/1EcjXCvQVYdAtC4vcaWIouMOMgFsISvLV/view?usp=sharing) , National Institute of Electronics and Information Technology (NIELIT)<br/>
